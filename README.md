@@ -5,4 +5,4 @@ npm install
 npm run test
 ```
 
-![image](./screenshots/Screenshot 2022-08-02 at 20.24.55.png)
+![image](https://github.com/tiagat/miratechgroup/blob/main/screenshots/Screenshot%202022-08-02%20at%2020.24.55.png)
